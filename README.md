@@ -1,4 +1,4 @@
-This is a web application that delivers real time weather information tailored to user's location, I implemented a feature that fetches current weather data such as temperature, humdity, pressure from a reliable weather API
+This is a web application that delivers real time weather information tailored to user's location, I implemented features that fetch current weather data such as temperature, humdity, and weather conditions from a reliable weather API
 
 ## Screenshot
 ![Screenshot (135)](https://github.com/user-attachments/assets/f17e50e9-3d68-4ae2-9d20-b1010d35807d)
